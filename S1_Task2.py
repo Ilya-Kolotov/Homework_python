@@ -3,9 +3,9 @@ print('X Y Z', end = '     ')
 print('Проверка истинности каждого значения')
 truthState = False
 count = 0
-for i in range(0, 2):
-    for k in range(0, 2):
-        for l in range(0, 2):
+for i in range(2):
+    for k in range(2):
+        for l in range(2):
             if not (i or k or l) == ( not i and not k and not l):
                 print(f'{i} {k} {l}', end = ' --> ')
                 print(True)
