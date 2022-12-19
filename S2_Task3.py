@@ -16,6 +16,12 @@ def DictionarySeqNumbers(number):
     for i in range(1, number +1):
         dictionary[i] = round((1+1/i)**i, 2)
     return dictionary
+def SumValues(number):
+    sumValues = 0
+    for i in range(1, number +1):
+        sumValues +=round((1+1/i)**i, 2)
+    return sumValues
 num = InputNumbers('Введите число: ')
 seqNumbers = DictionarySeqNumbers(num)
-print(f'Для n = {num} последовательность чисел -> {seqNumbers}')
+sumValues = SumValues(num)
+print(f'Для n = {num} последовательность чисел -> {seqNumbers}, сумма значений = {sumValues}')
