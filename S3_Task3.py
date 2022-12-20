@@ -25,10 +25,10 @@ def frac(list):
         list[i] = str(list[i])
         a = list[i].split('.')[1]
         if len(a) == 1:
-            k = int(a)*10
+            j = int(a)*10
         else:
-            k = int(a)
-        frac_list.append(k)
+            j = int(a)
+        frac_list.append(j)
     return frac_list
 
 num = InputNumbers('Введите длину списка: ')
