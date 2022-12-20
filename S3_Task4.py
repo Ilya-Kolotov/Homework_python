@@ -24,4 +24,4 @@ def dec_to_bin(number):
 
 num = InputNumbers('Введите число: ')
 binNumber = dec_to_bin(num)
-print(binNumber)
+print(f'Число {num} в двоичной системе = {binNumber}')
