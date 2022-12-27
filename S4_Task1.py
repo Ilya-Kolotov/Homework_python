@@ -14,5 +14,8 @@ def InputNumbers(InputText):
         except ValueError:
             print('Ошибка! Введите число')
     return number
-d = InputNumbers('Введите количество знаков после запятой: ')
-print(f'При заданной точности d = {(10 ** -d):{d}f}, число пи = {round(math.pi, d)}')
+d = InputNumbers('Введите количество знаков после запятой в диапозоне от 1 до 10: ')
+if d > 0 and d <= 10:
+    print(f'При заданной точности d = {(10 ** -d):.{d}f}, число пи = {round(math.pi, d)}')
+else:
+    print('Введено неверное число')
