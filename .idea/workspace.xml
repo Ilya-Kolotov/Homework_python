@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81bbf44d-a4f1-465f-835e-167d249a5609" name="Changes" comment="Update S4 Task 5">
-      <change afterPath="$PROJECT_DIR$/S6_Task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S6_Task3.py" afterDir="false" />
+    <list default="true" id="81bbf44d-a4f1-465f-835e-167d249a5609" name="Changes" comment="Add S6 Task 2">
+      <change afterPath="$PROJECT_DIR$/S6_Task1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,28 +39,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.S6_Task2">
-    <configuration name="S4_Task2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Homework" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/S4_Task2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.S6_Task1">
     <configuration name="S4_Task3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -96,6 +74,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/S4_Task4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="S6_Task1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/S6_Task1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.S6_Task1" />
         <item itemvalue="Python.S6_Task2" />
         <item itemvalue="Python.S6_Task3" />
         <item itemvalue="Python.S4_Task4" />
         <item itemvalue="Python.S4_Task3" />
-        <item itemvalue="Python.S4_Task2" />
       </list>
     </recent_temporary>
   </component>
@@ -298,7 +297,21 @@
       <option name="project" value="LOCAL" />
       <updated>1673554100949</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Add S6 Task 3">
+      <created>1673946639984</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1673946639984</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Add S6 Task 2">
+      <created>1673946652778</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1673946652778</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -316,7 +329,9 @@
     <MESSAGE value="Add S4 Task 4" />
     <MESSAGE value="Add S4 Task 5" />
     <MESSAGE value="Update S4 Task 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update S4 Task 5" />
+    <MESSAGE value="Add S6 Task 3" />
+    <MESSAGE value="Add S6 Task 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add S6 Task 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
