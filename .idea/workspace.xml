@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81bbf44d-a4f1-465f-835e-167d249a5609" name="Changes" comment="Add S6 Task 2">
-      <change afterPath="$PROJECT_DIR$/S6_Task1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="81bbf44d-a4f1-465f-835e-167d249a5609" name="Changes" comment="Add S6 Task 1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -311,7 +308,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673946652778</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Add S6 Task 1">
+      <created>1673948886416</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1673948886416</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -331,7 +335,8 @@
     <MESSAGE value="Update S4 Task 5" />
     <MESSAGE value="Add S6 Task 3" />
     <MESSAGE value="Add S6 Task 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add S6 Task 2" />
+    <MESSAGE value="Add S6 Task 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add S6 Task 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
