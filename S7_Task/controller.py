@@ -12,17 +12,17 @@ def button():
         export_data.write_data()
         mode = view.get_mode()
     if mode == 2:
-        mode_sorted = view.get_mode_import('1 - Сортировать по имени\n2 - Сортировать по id\nВыбери: ')
+        mode_sorted = view.get_mode_sorted()
         if mode_sorted == 1:
             export_data.write_data_sorted_name()
-            mode_import = view.get_mode_import('1 - Вывести все данные\n2 - Вывести только фамилию и имя\nВыбери: ')
+            mode_import = view.get_mode_import()
             if mode_import == 1:
                 import_data.import_data()
             else:
                 import_data.import_data_lastname_name()
         else:
             export_data.write_data_sorted_id()
-            mode_import = view.get_mode_import('1 - Вывести все данные\n2 - Вывести только фамилию и имя\nВыбери: ')
+            mode_import = view.get_mode_import()
             if mode_import == 1:
                 import_data.import_data()
             else:

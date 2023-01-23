@@ -25,9 +25,17 @@ def get_mode():
         mode = input()
     return int(mode)
 
-def get_mode_import(text):
+def get_mode_import():
     modes = ['1', '2']
-    mode = input(text)
+    mode = input('1 - Вывести все данные\n2 - Вывести только фамилию и имя\nВыбери: ')
+    while mode not in modes:
+        print('Такого режима нет. Введите корректный: ')
+        mode = input()
+    return int(mode)
+
+def get_mode_sorted():
+    modes = ['1', '2']
+    mode = input('1 - Сортировать по имени\n2 - Сортировать по id\nВыбери: ')
     while mode not in modes:
         print('Такого режима нет. Введите корректный: ')
         mode = input()
