@@ -17,9 +17,9 @@ def get_value_number(text):
         result = input()
     return int(result)
 
-def get_mode(text):
+def get_mode():
     modes = ['1', '2', '3']
-    mode = input(text)
+    mode = input('1 - Добавить пользователя\n2 - Вывести файл\n3 - Завершить программу\nВыбери: ')
     while mode not in modes:
         print('Такого режима нет. Введите корректный: ')
         mode = input()

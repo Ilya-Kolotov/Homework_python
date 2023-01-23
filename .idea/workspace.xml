@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="81bbf44d-a4f1-465f-835e-167d249a5609" name="Changes" comment="Add S7 Task">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S7_Task/controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/S7_Task/controller.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S7_Task/view.py" beforeDir="false" afterPath="$PROJECT_DIR$/S7_Task/view.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -364,7 +366,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674474295503</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Add S7 Task">
+      <created>1674493880193</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1674493880193</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

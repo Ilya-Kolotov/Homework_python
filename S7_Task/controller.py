@@ -1,7 +1,7 @@
 import view, export_data, import_data
 
 def button():
-    mode = view.get_mode('1 - Добавить пользователя\n2 - Вывести файл\n3 - Завершить программу\nВыбери: ')
+    mode = view.get_mode()
     while mode == 1:
         id = view.get_value_number('Введите Id отрудника: ')
         lastname = view.get_value('Введите Фамилию: ')
@@ -10,7 +10,7 @@ def button():
         comment = view.get_value('Введите комментарий: ')
         export_data.init(id, lastname, name, phone, comment)
         export_data.write_data()
-        mode = view.get_mode('1 - Добавить пользователя\n2 - Вывести файл\n3 - Завершить программу\nВыбери: ')
+        mode = view.get_mode()
     if mode == 2:
         mode_sorted = view.get_mode_import('1 - Сортировать по имени\n2 - Сортировать по id\nВыбери: ')
         if mode_sorted == 1:
