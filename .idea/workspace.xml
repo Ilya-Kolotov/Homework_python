@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81bbf44d-a4f1-465f-835e-167d249a5609" name="Changes" comment="Add S5 Task 4">
-      <change afterPath="$PROJECT_DIR$/S7_Task/controller.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S7_Task/export_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S7_Task/import_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S7_Task/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S7_Task/validator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S7_Task/view.py" afterDir="false" />
+    <list default="true" id="81bbf44d-a4f1-465f-835e-167d249a5609" name="Changes" comment="Add S7 Task">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/S4_Task5.py" beforeDir="false" afterPath="$PROJECT_DIR$/S4_Task5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,20 +30,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Admin/Desktop/Учеба/Знакомство с python/Homework",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/Desktop/Учеба/Знакомство с python/Homework&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Admin\Desktop\Учеба\Знакомство с python\Homework\S7_Task" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.view">
+  <component name="RunManager" selected="Python.main (1)">
     <configuration name="S4_Task5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -179,8 +172,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.view" />
         <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.view" />
         <item itemvalue="Python.import_data" />
         <item itemvalue="Python.export_data" />
         <item itemvalue="Python.S4_Task5" />
@@ -357,7 +350,21 @@
       <option name="project" value="LOCAL" />
       <updated>1674056685109</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Add S7 Task">
+      <created>1674473983307</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1674473983307</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Add S7 Task">
+      <created>1674474295503</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1674474295503</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -382,7 +389,8 @@
     <MESSAGE value="Add S5 Task 2" />
     <MESSAGE value="Add S5 Task 3" />
     <MESSAGE value="Add S5 Task 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add S5 Task 4" />
+    <MESSAGE value="Add S7 Task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add S7 Task" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

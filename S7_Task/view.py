@@ -1,4 +1,4 @@
-import validator, os
+import validator
 
 def view_data(data):
     print(data)
