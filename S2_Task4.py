@@ -17,7 +17,7 @@ def ListNElem(number):
         number = list(range(-numN, numN-1, -1))
     return number
 def ProductElemOnPosition(number):    
-    path = 'file.txt'
+    path = '../../../../PycharmProjects/Homework/file.txt'
     data = open(path, 'r')
     product = 1
     for line in data:

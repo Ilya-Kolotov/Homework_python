@@ -4,25 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81bbf44d-a4f1-465f-835e-167d249a5609" name="Changes" comment="Add S7 Task">
-      <change afterPath="$PROJECT_DIR$/Student/controller.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Student/export_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Student/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Student/validator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Student/view.py" afterDir="false" />
+    <list default="true" id="7eb0b8de-e4b5-430d-a5e5-70a169ac27a3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Seminar_9/CandyBot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Homework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Homework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S2_Task4.py" beforeDir="false" afterPath="$PROJECT_DIR$/S2_Task4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Student/controller.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Student/export_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Student/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Student/validator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Student/view.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -30,27 +30,28 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2Iqe035MsyIr80R3CBfXcCwPxXQ" />
+  <component name="ProjectId" id="2L0Km8LEhM3TyoSOMR4zLAKuDKf" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Admin/Desktop/Учеба/Знакомство с python/Homework",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/PycharmProjects/Homework&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Admin\Desktop\Учеба\Знакомство с python\Homework" />
-      <recent name="C:\Users\Admin\Desktop\Учеба\Знакомство с python\Homework\S7_Task" />
+      <recent name="C:\Users\Admin\PycharmProjects\Homework" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\PycharmProjects\Homework" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (2)">
-    <configuration name="export_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.CandyBot (1)">
+    <configuration name="Bot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,11 +59,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/S7_Task" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TGBot" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/S7_Task/export_data.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TGBot/Bot.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,7 +72,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="import_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="CandyBot (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,11 +80,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/S7_Task" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seminar_9" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/S7_Task/import_data.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seminar_9/CandyBot.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="CandyBot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,11 +101,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/S7_Task" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Bot seminar" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/S7_Task/main.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Admin\PycharmProjects\Homework\Bot seminar\CandyBot.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,28 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Homework" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Student" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Student/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="S5_Task2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,28 +126,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="view" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Homework" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/S7_Task" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/S7_Task/view.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/S5_Task2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,261 +137,22 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main (2)" />
-        <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.view" />
-        <item itemvalue="Python.import_data" />
-        <item itemvalue="Python.export_data" />
+        <item itemvalue="Python.CandyBot (1)" />
+        <item itemvalue="Python.CandyBot" />
+        <item itemvalue="Python.Bot" />
+        <item itemvalue="Python.S5_Task2" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="81bbf44d-a4f1-465f-835e-167d249a5609" name="Changes" comment="" />
-      <created>1670913314199</created>
+      <changelist id="7eb0b8de-e4b5-430d-a5e5-70a169ac27a3" name="Changes" comment="" />
+      <created>1675002715282</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1670913314199</updated>
+      <updated>1675002715282</updated>
     </task>
-    <task id="LOCAL-00001" summary="Add Task 1">
-      <created>1670914424850</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1670914424850</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Add S3 Task 1">
-      <created>1671515760605</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1671515760605</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Add S3 Task 2">
-      <created>1671518708040</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1671518708040</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Add S3 Task 2">
-      <created>1671529836271</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1671529836271</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Add S3 Task 3">
-      <created>1671529907871</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1671529907871</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Add S3 Task 4">
-      <created>1671536451672</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1671536451672</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Add S3 Task 5">
-      <created>1671544356225</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1671544356225</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Update S3 Task 4">
-      <created>1671544560736</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1671544560736</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Add S4 Task1">
-      <created>1672040740153</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1672040740153</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Update S4 Task1">
-      <created>1672122434608</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1672122434608</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Add S4 Task 2">
-      <created>1672127946555</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1672127946555</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Add S4 Task 3">
-      <created>1672136257805</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1672136257805</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Add S4 Task 4">
-      <created>1672140796420</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1672140796420</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Add S4 Task 5">
-      <created>1672330449708</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1672330449708</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Update S4 Task 5">
-      <created>1672330495761</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1672330495761</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Update S4 Task 5">
-      <created>1673554100949</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1673554100949</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Add S6 Task 3">
-      <created>1673946639984</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1673946639984</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Add S6 Task 2">
-      <created>1673946652778</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1673946652778</updated>
-    </task>
-    <task id="LOCAL-00019" summary="Add S6 Task 1">
-      <created>1673948886416</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1673948886416</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Add S5 Task 1">
-      <created>1674040599986</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1674040599986</updated>
-    </task>
-    <task id="LOCAL-00021" summary="Add S5 Task 2">
-      <created>1674047363410</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1674047363410</updated>
-    </task>
-    <task id="LOCAL-00022" summary="Add S5 Task 3">
-      <created>1674049725073</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1674049725073</updated>
-    </task>
-    <task id="LOCAL-00023" summary="Add S5 Task 4">
-      <created>1674056685109</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1674056685109</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Add S7 Task">
-      <created>1674473983307</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1674473983307</updated>
-    </task>
-    <task id="LOCAL-00025" summary="Add S7 Task">
-      <created>1674474295503</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1674474295503</updated>
-    </task>
-    <task id="LOCAL-00026" summary="Add S7 Task">
-      <created>1674493880193</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1674493880193</updated>
-    </task>
-    <task id="LOCAL-00027" summary="Add S7 Task">
-      <created>1674497069026</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1674497069026</updated>
-    </task>
-    <task id="LOCAL-00028" summary="Add S7 Task">
-      <created>1674497382311</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1674497382311</updated>
-    </task>
-    <option name="localTasksCounter" value="29" />
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add Task 1" />
-    <MESSAGE value="Add S3 Task 1" />
-    <MESSAGE value="Add S3 Task 2" />
-    <MESSAGE value="Add S3 Task 3" />
-    <MESSAGE value="Add S3 Task 4" />
-    <MESSAGE value="Add S3 Task 5" />
-    <MESSAGE value="Update S3 Task 4" />
-    <MESSAGE value="Add S4 Task1" />
-    <MESSAGE value="Update S4 Task1" />
-    <MESSAGE value="Add S4 Task 2" />
-    <MESSAGE value="Add S4 Task 3" />
-    <MESSAGE value="Add S4 Task 4" />
-    <MESSAGE value="Add S4 Task 5" />
-    <MESSAGE value="Update S4 Task 5" />
-    <MESSAGE value="Add S6 Task 3" />
-    <MESSAGE value="Add S6 Task 2" />
-    <MESSAGE value="Add S6 Task 1" />
-    <MESSAGE value="Add S5 Task 1" />
-    <MESSAGE value="Add S5 Task 2" />
-    <MESSAGE value="Add S5 Task 3" />
-    <MESSAGE value="Add S5 Task 4" />
-    <MESSAGE value="Add S7 Task" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add S7 Task" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/S4_Task1.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/S4_Task1.py</url>
-          <line>18</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
