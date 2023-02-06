@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7eb0b8de-e4b5-430d-a5e5-70a169ac27a3" name="Changes" comment="Add S9 CandyBot">
-      <change afterPath="$PROJECT_DIR$/Seminar_10/botCalc.py" afterDir="false" />
+    <list default="true" id="7eb0b8de-e4b5-430d-a5e5-70a169ac27a3" name="Changes" comment="Add S10 CalcBot">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -179,11 +178,19 @@
       <option name="project" value="LOCAL" />
       <updated>1675320134467</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add S10 CalcBot">
+      <created>1675331145276</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675331145276</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add S9 CandyBot" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add S9 CandyBot" />
+    <MESSAGE value="Add S10 CalcBot" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add S10 CalcBot" />
   </component>
 </project>
